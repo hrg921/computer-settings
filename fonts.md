@@ -1,0 +1,3 @@
+# fonts
+
+- jetbrains mono
